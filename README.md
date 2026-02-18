@@ -14,34 +14,26 @@ Building tools, games, and apps that people actually use.
 
 ---
 
-## What I Build
+## Apps (with downloadable APK & EXE)
 
-**Games** - 3D browser-based experiences with Three.js and WebGL  
-**Web Apps** - Full-stack applications with React, TypeScript, and Supabase  
-**Developer Tools** - CLI utilities and npm packages for the dev community  
-**Open Source** - Everything I build is open source and well-documented
+| App | Description | Download |
+|-----|-------------|----------|
+| **[Todo App](https://github.com/tapiwamakandigona/todo-app)** | Beautiful dark-themed todo list | [APK](https://github.com/tapiwamakandigona/todo-app/releases/latest) / [EXE](https://github.com/tapiwamakandigona/todo-app/releases/latest) / [Web](https://tapiwamakandigona.github.io/todo-app/) |
+| **[Zombie FPS](https://github.com/tapiwamakandigona/fps-game)** | 3D browser shooter with waves & weapons | [Play](https://tapiwamakandigona.github.io/fps-game/) |
+| **[ZimPay](https://github.com/tapiwamakandigona/zimpay)** | Banking sim with real-time transfers | [Demo](https://tapiwamakandigona.github.io/zimpay/) |
+| **[ZimBet](https://github.com/tapiwamakandigona/zimbet)** | RPS betting with physics animations | [Play](https://tapiwamakandigona.github.io/zimbet/) |
+| **[StatusPulse](https://statuspulse-app.web.app)** | Service monitoring dashboard | [Live](https://statuspulse-app.web.app) |
 
-## Featured Projects
-
-### Apps & Games
-
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| **Zombie Survival FPS** | 3D browser shooter with waves, weapons, and mystery boxes | Three.js, TypeScript, WebGL | [Play](https://tapiwamakandigona.github.io/fps-game/) |
-| **ZimPay** | Banking simulation with real-time transfers and auth | React, TypeScript, Supabase | [Demo](https://tapiwamakandigona.github.io/zimpay/) |
-| **ZimBet** | Rock Paper Scissors betting with physics animations | React, Matter.js, Supabase | [Play](https://tapiwamakandigona.github.io/zimbet/) |
-| **StatusPulse** | Real-time service monitoring dashboard | HTML, CSS, Firebase Hosting | [Live](https://statuspulse-app.web.app) |
-
-### Developer Tools
+## Developer Tools (with downloadable binaries)
 
 | Tool | Description | Install |
 |------|-------------|---------|
-| **[env-guard](https://github.com/tapiwamakandigona/env-guard)** | Validate env vars at startup - never deploy with missing config | `npm i env-guard` |
-| **[ts-color-utils](https://github.com/tapiwamakandigona/ts-color-utils)** | Hex/RGB/HSL color conversion utilities | `npm i ts-color-utils` |
-| **[json-lint-cli](https://github.com/tapiwamakandigona/json-lint-cli)** | JSON validator and formatter CLI | `npx json-lint-cli` |
-| **[http-ping-cli](https://github.com/tapiwamakandigona/http-ping-cli)** | HTTP endpoint health checker | `npx http-ping-cli` |
-| **[pwgen-cli](https://github.com/tapiwamakandigona/pwgen-cli)** | Secure password generator | `npx pwgen-cli` |
-| **[md-preview-server](https://github.com/tapiwamakandigona/md-preview-server)** | Live-reload Markdown preview | `npx md-preview-server` |
+| **[env-guard](https://github.com/tapiwamakandigona/env-guard)** | Validate env vars at startup | `npm i env-guard` |
+| **[ts-color-utils](https://github.com/tapiwamakandigona/ts-color-utils)** | Hex/RGB/HSL color conversion | `npm i ts-color-utils` |
+| **[json-lint-cli](https://github.com/tapiwamakandigona/json-lint-cli)** | JSON validator & formatter | [Download](https://github.com/tapiwamakandigona/json-lint-cli/releases/latest) |
+| **[http-ping-cli](https://github.com/tapiwamakandigona/http-ping-cli)** | HTTP health checker | [Download](https://github.com/tapiwamakandigona/http-ping-cli/releases/latest) |
+| **[pwgen-cli](https://github.com/tapiwamakandigona/pwgen-cli)** | Secure password generator | [Download](https://github.com/tapiwamakandigona/pwgen-cli/releases/latest) |
+| **[md-preview-server](https://github.com/tapiwamakandigona/md-preview-server)** | Live Markdown preview | `npx md-preview-server` |
 
 ## Tech Stack
 
@@ -51,10 +43,12 @@ Building tools, games, and apps that people actually use.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 </div>
 
@@ -73,6 +67,6 @@ Building tools, games, and apps that people actually use.
 
 <div align="center">
 
-**Open to work** - Available for full-stack, game dev, and tooling roles.
+**Open to work** -- Available for full-stack, game dev, mobile, and tooling roles.
 
 </div>
