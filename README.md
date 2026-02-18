@@ -2,9 +2,9 @@
 
 # Tapiwa Makandigona
 
-**Full-Stack Developer** building across every layer of the stack.
+**Full-Stack Developer** -- 19 open-source repos, 139+ merged PRs.
 
-Games. Web apps. Mobile apps. APIs. Component libraries. CLI tools. All open source.
+Games. Web apps. Mobile apps. APIs. Component libraries. CLI tools. All open source, all documented.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=safari&logoColor=white)](https://tapiwamakandigona.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-silentics.org@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:silentics.org@gmail.com)
@@ -17,35 +17,36 @@ Games. Web apps. Mobile apps. APIs. Component libraries. CLI tools. All open sou
 
 | Project | Description | Stack | Try It |
 |---------|------------|-------|--------|
-| **[Zombie Survival FPS](https://github.com/tapiwamakandigona/fps-game)** | 3D shooter: waves, weapons, mystery boxes, shop, mobile controls | Three.js, TypeScript, WebGL | [Play](https://tapiwamakandigona.github.io/fps-game/) |
-| **[ZimBet](https://github.com/tapiwamakandigona/zimbet)** | Casino: Aviator, Plinko, Mines, Coinflip, Dice, Wheel. Provably fair. | React, Matter.js, Supabase | [Play](https://tapiwamakandigona.github.io/zimbet/) |
+| **[Zombie Survival FPS](https://github.com/tapiwamakandigona/fps-game)** | 3D shooter with waves, weapons, mystery boxes, shop, mobile | Three.js, TypeScript, WebGL | [Play](https://tapiwamakandigona.github.io/fps-game/) |
+| **[ZimBet](https://github.com/tapiwamakandigona/zimbet)** | Casino: Aviator, Plinko, Mines, Coinflip, Dice, Wheel | React, Matter.js, Supabase | [Play](https://tapiwamakandigona.github.io/zimbet/) |
 
 ### Full-Stack Apps
 
 | Project | Description | Stack | Try It |
 |---------|------------|-------|--------|
-| **[ZimPay](https://github.com/tapiwamakandigona/zimpay)** | Banking sim: transfers, auth, themes, transaction history | React, TypeScript, Supabase | [Demo](https://tapiwamakandigona.github.io/zimpay/) |
-| **[Realtime Chat](https://github.com/tapiwamakandigona/realtime-chat)** | Chat rooms, avatars, typing indicators, mobile drawer | React, TypeScript, Supabase | [Demo](https://tapiwamakandigona.github.io/realtime-chat/) |
-| **[Analytics Dashboard](https://github.com/tapiwamakandigona/react-analytics-dashboard)** | KPIs, revenue charts, user graphs, data tables. Custom SVG. | React, TypeScript | [Demo](https://tapiwamakandigona.github.io/react-analytics-dashboard/) |
-| **[URL Shortener](https://github.com/tapiwamakandigona/url-shortener)** | Shorten URLs, track clicks, custom aliases, analytics | Express, React, TypeScript | -- |
-| **[Todo App](https://github.com/tapiwamakandigona/todo-app)** | Cross-platform: Android APK, Windows EXE, macOS, Linux, Web | React, Capacitor, Electron | [Download](https://github.com/tapiwamakandigona/todo-app/releases) |
+| **[ZimPay](https://github.com/tapiwamakandigona/zimpay)** | Banking sim: transfers, auth, themes | React, TypeScript, Supabase | [Demo](https://tapiwamakandigona.github.io/zimpay/) |
+| **[Expense Tracker](https://github.com/tapiwamakandigona/expense-tracker)** | Income/expense tracking, charts, CSV export | React, TypeScript | [Demo](https://tapiwamakandigona.github.io/expense-tracker/) |
+| **[Realtime Chat](https://github.com/tapiwamakandigona/realtime-chat)** | Chat rooms, avatars, emoji picker | React, TypeScript, Supabase | [Demo](https://tapiwamakandigona.github.io/realtime-chat/) |
+| **[Analytics Dashboard](https://github.com/tapiwamakandigona/react-analytics-dashboard)** | KPIs, charts, tables, custom SVG | React, TypeScript | [Demo](https://tapiwamakandigona.github.io/react-analytics-dashboard/) |
+| **[URL Shortener](https://github.com/tapiwamakandigona/url-shortener)** | Short URLs, click analytics, QR codes | Express, React, TypeScript | -- |
+| **[Todo App](https://github.com/tapiwamakandigona/todo-app)** | APK + EXE + Web. Categories, priorities, search. | React, Capacitor, Electron | [Download](https://github.com/tapiwamakandigona/todo-app/releases) |
 | **[StatusPulse](https://statuspulse-app.web.app)** | Service monitoring dashboard | HTML/CSS, Firebase | [Live](https://statuspulse-app.web.app) |
 
 ### Backend & APIs
 
 | Project | Description | Stack |
 |---------|------------|-------|
-| **[Express API Starter](https://github.com/tapiwamakandigona/express-api-starter)** | JWT auth, rate limiting, error handling, request logging, full test suite | Express, TypeScript, Jest |
+| **[Express API Starter](https://github.com/tapiwamakandigona/express-api-starter)** | JWT auth, rate limiting, validation, WebSocket, full tests | Express, TypeScript, Jest |
 
 ### Libraries & Packages
 
 | Package | Description | Install |
 |---------|------------|---------|
-| **[react-ui-kit](https://github.com/tapiwamakandigona/react-ui-kit)** | 8 React components: Button, Input, Modal, Toast, Card, Badge, Spinner, Avatar | `npm i react-ui-kit` |
+| **[react-ui-kit](https://github.com/tapiwamakandigona/react-ui-kit)** | 8 components + 5 hooks: Button, Modal, Toast, useFetch, useDebounce... | `npm i react-ui-kit` |
 | **[env-guard](https://github.com/tapiwamakandigona/env-guard)** | Validate env vars at startup. Zero deps. | `npm i env-guard` |
-| **[ts-color-utils](https://github.com/tapiwamakandigona/ts-color-utils)** | Hex/RGB/HSL conversion with full types | `npm i ts-color-utils` |
+| **[ts-color-utils](https://github.com/tapiwamakandigona/ts-color-utils)** | Color conversion + WCAG contrast + palette generation | `npm i ts-color-utils` |
 
-### CLI Tools (with downloadable binaries)
+### CLI Tools (downloadable binaries)
 
 | Tool | Description | Get It |
 |------|------------|--------|
@@ -59,11 +60,11 @@ Games. Web apps. Mobile apps. APIs. Component libraries. CLI tools. All open sou
 ```
 Languages    TypeScript, JavaScript, HTML/CSS, SQL
 Frontend     React, Three.js, Vite, SVG, CSS Custom Properties
-Backend      Node.js, Express, Supabase, Firebase
-Mobile       Capacitor (Android), Electron (Desktop)
+Backend      Node.js, Express, WebSocket, Supabase, Firebase
+Mobile       Capacitor (Android APK), Electron (Desktop EXE)
 Physics      Matter.js, Three.js/WebGL
 Testing      Jest, Supertest, Testing Library
-DevOps       GitHub Actions, CI/CD, automated releases
+DevOps       GitHub Actions CI/CD, automated releases, GitHub Pages
 Libraries    Published npm packages, React component library
 ```
 
