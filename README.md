@@ -1,94 +1,56 @@
 <div align="center">
 
-# Hi there, I'm Tapiwa 👋
+# Tapiwa Makandigona
 
-### Developer | Game Creator | Problem Solver
+**Developer | Game Creator | Problem Solver**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-blue?style=for-the-badge)](https://tapiwamakandigona.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge)](mailto:silentics.org@gmail.com)
+I build immersive games and modern web apps with clean code and sharp design.
 
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a passionate developer who loves turning ideas into reality through code. Whether it's creating immersive game experiences or building sleek web applications, I bring ideas to life with creativity and technical precision.
-
-- 🎮 Building **3D games** with Three.js
-- 💻 Creating **modern web apps** with React & TypeScript
-- 🌱 Always learning and exploring new technologies
-- 🎯 Focused on clean code and great user experiences
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://tapiwamakandigona.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silentics.org@gmail.com)
 
 </div>
 
----
+## What I Do
 
-## 🎯 Featured Projects
+- **3D Games** in the browser with Three.js and WebGL
+- **Web Applications** with React, TypeScript, and Supabase
+- **Full-Stack Development** from UI design to database architecture
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://tapiwamakandigona.github.io/fps-game/">
-        <img src="https://img.shields.io/badge/🎮_Zombie_Survival_FPS-Play_Now-brightgreen?style=for-the-badge" alt="FPS Game"/>
-      </a>
-      <br/><br/>
-      <b>3D Browser-Based Shooter</b>
-      <br/>
-      Built with Three.js • TypeScript • WebGL
-      <br/><br/>
-      Battle through waves of zombies, collect weapons, and survive!
-    </td>
-    <td align="center" width="50%">
-      <a href="https://tapiwamakandigona.github.io/zimpay/">
-        <img src="https://img.shields.io/badge/💳_ZimPay_Banking-Try_Demo-blue?style=for-the-badge" alt="ZimPay"/>
-      </a>
-      <br/><br/>
-      <b>Modern Banking Simulation</b>
-      <br/>
-      Built with React • TypeScript • Supabase
-      <br/><br/>
-      Real-time transfers, auth, beautiful dark/light themes
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
+## Tech Stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tapiwamakandigona&show_icons=true&theme=tokyonight&hide_border=true)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 </div>
 
----
+## Featured Projects
 
-## 📫 Let's Connect!
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Zombie Survival FPS**](https://tapiwamakandigona.github.io/fps-game/) | 3D browser-based shooter. Battle waves of zombies, collect weapons, survive. | Three.js, TypeScript, WebGL |
+| [**ZimPay**](https://tapiwamakandigona.github.io/zimpay/) | Modern banking simulation with real-time transfers and auth. | React, TypeScript, Supabase |
+| [**ZimBet**](https://github.com/tapiwamakandigona/zimbet) | Rock Paper Scissors betting game. | HTML, CSS, JavaScript |
+| [**Portfolio**](https://tapiwamakandigona.github.io/portfolio/) | Personal portfolio site. | CSS, HTML |
+
+## Stats
 
 <div align="center">
 
-I'm always open to new opportunities and collaborations. Feel free to reach out!
+<img src="https://github-readme-stats.vercel.app/api?username=tapiwamakandigona&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapiwamakandigona&layout=compact&theme=github_dark&hide_border=true" height="165" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tapiwamakandigona.github.io-blue?style=flat-square)](https://tapiwamakandigona.github.io/portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-@tapiwamakandigona-black?style=flat-square&logo=github)](https://github.com/tapiwamakandigona)
-[![Email](https://img.shields.io/badge/Email-silentics.org@gmail.com-red?style=flat-square&logo=gmail)](mailto:silentics.org@gmail.com)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tapiwamakandigona&theme=github-dark-blue&hide_border=true" width="600" />
 
 </div>
 
@@ -96,6 +58,6 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 <div align="center">
 
-*"Building cool stuff, one line of code at a time"* ✨
+*Open to collaborations and new opportunities.*
 
 </div>
