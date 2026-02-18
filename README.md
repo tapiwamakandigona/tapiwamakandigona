@@ -2,64 +2,61 @@
 
 # Tapiwa Makandigona
 
-**Full-Stack Developer | Game Creator | Open Source Builder**
+**Full-Stack Developer** specializing in games, web apps, mobile, and developer tools.
 
-Building tools, games, and apps that people actually use.
+I build things people use -- from 3D browser games to banking apps to CLI tools with downloadable executables.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://tapiwamakandigona.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silentics.org@gmail.com)
-[![StatusPulse](https://img.shields.io/badge/StatusPulse-Live-22c55e?style=for-the-badge)](https://statuspulse-app.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tapiwamakandigona.github.io-0A66C2?style=flat-square&logo=safari&logoColor=white)](https://tapiwamakandigona.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-silentics.org@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:silentics.org@gmail.com)
 
 </div>
 
 ---
 
-## Apps (with downloadable APK & EXE)
+### Apps (with releases)
 
-| App | Description | Download |
-|-----|-------------|----------|
-| **[Todo App](https://github.com/tapiwamakandigona/todo-app)** | Beautiful dark-themed todo list | [APK](https://github.com/tapiwamakandigona/todo-app/releases/latest) / [EXE](https://github.com/tapiwamakandigona/todo-app/releases/latest) / [Web](https://tapiwamakandigona.github.io/todo-app/) |
-| **[Zombie FPS](https://github.com/tapiwamakandigona/fps-game)** | 3D browser shooter with waves & weapons | [Play](https://tapiwamakandigona.github.io/fps-game/) |
-| **[ZimPay](https://github.com/tapiwamakandigona/zimpay)** | Banking sim with real-time transfers | [Demo](https://tapiwamakandigona.github.io/zimpay/) |
-| **[ZimBet](https://github.com/tapiwamakandigona/zimbet)** | RPS betting with physics animations | [Play](https://tapiwamakandigona.github.io/zimbet/) |
-| **[StatusPulse](https://statuspulse-app.web.app)** | Service monitoring dashboard | [Live](https://statuspulse-app.web.app) |
+| | Project | What it does | Stack | Links |
+|-|---------|-------------|-------|-------|
+| &#127918; | **[Zombie Survival FPS](https://github.com/tapiwamakandigona/fps-game)** | 3D first-person shooter. Waves, weapons, mystery boxes, shop system. | Three.js, TypeScript, WebGL | [Play](https://tapiwamakandigona.github.io/fps-game/) |
+| &#128179; | **[ZimPay](https://github.com/tapiwamakandigona/zimpay)** | Banking sim with transfers, auth, dark/light themes. | React, TypeScript, Supabase | [Demo](https://tapiwamakandigona.github.io/zimpay/) |
+| &#127920; | **[ZimBet](https://github.com/tapiwamakandigona/zimbet)** | Casino platform with 6 provably fair games (Aviator, Plinko, Mines, etc). | React, Matter.js, Supabase | [Play](https://tapiwamakandigona.github.io/zimbet/) |
+| &#9989; | **[Todo App](https://github.com/tapiwamakandigona/todo-app)** | Cross-platform todo list. APK + EXE + Web. | React, Capacitor, Electron | [Download](https://github.com/tapiwamakandigona/todo-app/releases) |
+| &#128994; | **[StatusPulse](https://statuspulse-app.web.app)** | Service monitoring dashboard on Firebase. | HTML/CSS, Firebase | [Live](https://statuspulse-app.web.app) |
 
-## Developer Tools (with downloadable binaries)
+### Developer Tools (with binaries)
 
-| Tool | Description | Install |
-|------|-------------|---------|
-| **[env-guard](https://github.com/tapiwamakandigona/env-guard)** | Validate env vars at startup | `npm i env-guard` |
-| **[ts-color-utils](https://github.com/tapiwamakandigona/ts-color-utils)** | Hex/RGB/HSL color conversion | `npm i ts-color-utils` |
-| **[json-lint-cli](https://github.com/tapiwamakandigona/json-lint-cli)** | JSON validator & formatter | [Download](https://github.com/tapiwamakandigona/json-lint-cli/releases/latest) |
-| **[http-ping-cli](https://github.com/tapiwamakandigona/http-ping-cli)** | HTTP health checker | [Download](https://github.com/tapiwamakandigona/http-ping-cli/releases/latest) |
-| **[pwgen-cli](https://github.com/tapiwamakandigona/pwgen-cli)** | Secure password generator | [Download](https://github.com/tapiwamakandigona/pwgen-cli/releases/latest) |
-| **[md-preview-server](https://github.com/tapiwamakandigona/md-preview-server)** | Live Markdown preview | `npx md-preview-server` |
+| Tool | Description | Get it |
+|------|-------------|--------|
+| [**env-guard**](https://github.com/tapiwamakandigona/env-guard) | Validate env vars at startup. Zero deps. | `npm i env-guard` |
+| [**ts-color-utils**](https://github.com/tapiwamakandigona/ts-color-utils) | Hex/RGB/HSL conversion with types. | `npm i ts-color-utils` |
+| [**json-lint-cli**](https://github.com/tapiwamakandigona/json-lint-cli) | Validate & format JSON files. | [Download](https://github.com/tapiwamakandigona/json-lint-cli/releases) |
+| [**http-ping-cli**](https://github.com/tapiwamakandigona/http-ping-cli) | Check endpoint health & latency. | [Download](https://github.com/tapiwamakandigona/http-ping-cli/releases) |
+| [**pwgen-cli**](https://github.com/tapiwamakandigona/pwgen-cli) | Crypto-secure password generator. | [Download](https://github.com/tapiwamakandigona/pwgen-cli/releases) |
+| [**md-preview-server**](https://github.com/tapiwamakandigona/md-preview-server) | Live-reload Markdown preview. | `npx md-preview-server` |
 
-## Tech Stack
+### Stack
+
+```
+Languages    TypeScript, JavaScript, HTML/CSS, SQL
+Frontend     React, Three.js, Vite, CSS Modules
+Backend      Node.js, Supabase, Firebase
+Mobile       Capacitor (Android), Electron (Desktop)
+DevOps       GitHub Actions, CI/CD, automated releases
+Tools        ESLint, Prettier, Jest, pkg
+```
+
+### Stats
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=tapiwamakandigona&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapiwamakandigona&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" />
 
 </div>
 
-## Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tapiwamakandigona&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapiwamakandigona&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tapiwamakandigona&theme=github-dark-blue&hide_border=true" width="600" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tapiwamakandigona&theme=github-dark-blue&hide_border=true" width="550" />
 
 </div>
 
@@ -67,6 +64,6 @@ Building tools, games, and apps that people actually use.
 
 <div align="center">
 
-**Open to work** -- Available for full-stack, game dev, mobile, and tooling roles.
+**Open to work.** Looking for full-stack, game dev, or tooling roles.
 
 </div>
