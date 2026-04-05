@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>I build web apps, 3D games, and cross-platform tools with TypeScript and React.</strong><br/>
-  Student &amp; builder. Representing Zimbabwe at <a href="https://africa-oai.org">AOAI 2026</a> — the African Olympiad in Artificial Intelligence.
+  Student &amp; builder from Harare.
 </p>
 
 <p align="center">
