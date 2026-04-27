@@ -1,67 +1,117 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tapiwa%20Makandigona&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Zimbabwe%20🇿🇼&descAlignY=52&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1,818cf8&height=220&section=header&text=Tapiwa%20Makandigona&fontSize=48&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Zimbabwe%20🇿🇼&descAlignY=54&descAlign=50&fontColor=ffffff" />
 </div>
 
 <p align="center">
-  <strong>I build web apps, 3D games, and cross-platform tools with TypeScript and React.</strong><br/>
-  Student &amp; builder from Harare.
+  <a href="https://tapiwa.me"><img src="https://img.shields.io/badge/🌐%20tapiwa.me-Visit%20Portfolio-6366f1?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:silentics.org@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=tapiwamakandigona&label=Profile+Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://tapiwamakandigona.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:silentics.org@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <strong>I build full-stack web apps, 3D browser games, and cross-platform tools.</strong><br/>
+  TypeScript · React · Supabase · Three.js · Capacitor · Electron · Node.js
 </p>
 
 ---
 
 ## 🏗️ What I Build
 
-I focus on **React + TypeScript + Supabase** for full-stack apps, **Three.js** for browser-based 3D, and **Capacitor/Electron** for cross-platform deployment. I like building things that actually work — real-time features, auth flows, maps, the whole stack.
+Full-stack apps with **React + TypeScript + Supabase**, real-time features via **Supabase Realtime**, browser-based 3D with **Three.js**, and cross-platform deployment through **Capacitor** (Android/iOS) and **Electron** (desktop). I build things that actually work end-to-end — auth flows, live GPS tracking, multiplayer games, CLI tools, the whole stack.
+
+Currently based in Harare, Zimbabwe. Open to remote work.
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🚗 [TapRide](https://github.com/tapiwamakandigona/tapride) — Ride-Hailing App
-Full-stack ride-hailing platform with real-time tracking, in-app chat, and driver matching.
-- **Stack:** React, TypeScript, Supabase (Auth + Realtime + PostgreSQL), Leaflet, Capacitor
-- **Features:** Live GPS tracking, fare estimation, ratings, chat, dark mode
-- [**Live Demo →**](https://tapiwamakandigona.github.io/tapride/)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🧟 [Browser FPS Game](https://github.com/tapiwamakandigona/fps-game) — 3D Zombie Survival
-Console-style 3D graphics running in the browser with no plugins.
-- **Stack:** TypeScript, Three.js, WebGL
-- **Features:** Wave progression, particle systems, collision detection, mystery boxes
-- [**Play Now →**](https://tapiwamakandigona.github.io/fps-game/)
+### 🚗 [TapRide](https://github.com/tapiwamakandigona/tapride)
+Full-stack ride-hailing platform with real-time GPS, driver matching, in-app chat, fare estimation, and star ratings.
 
-### 🎲 [ZimBet](https://github.com/tapiwamakandigona/zimbet) — Casino Platform
-Six provably fair games with real-time multiplayer.
-- **Stack:** React, TypeScript, Supabase Realtime, HTML5 Canvas
-- **Features:** Aviator (Crash), Plinko, Mines, Dice, Coinflip, Wheel
-- [**Live Demo →**](https://tapiwamakandigona.github.io/zimbet/)
+**Stack:** React · TypeScript · Supabase · Leaflet · Capacitor
 
-### 🏦 [ZimPay](https://github.com/tapiwamakandigona/zimpay) — Banking Simulation
-Modern fintech dashboard with transfers, auth, and theming.
-- **Stack:** React, TypeScript, Tailwind CSS, Supabase Auth
-- [**Live Demo →**](https://tapiwamakandigona.github.io/zimpay/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-→-6366f1?style=flat-square)](https://tapiwamakandigona.github.io/tapride/)
+[![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/tapride)
 
-### 📱 [Todo App](https://github.com/tapiwamakandigona/todo-app) — Cross-Platform
-One codebase deployed to Android, Windows, macOS, Linux, and Web.
-- **Stack:** React, TypeScript, Capacitor, Electron
-- [**Live Demo →**](https://tapiwamakandigona.github.io/todo-app/)
+</td>
+<td width="50%" valign="top">
+
+### 🧟 [Browser FPS](https://github.com/tapiwamakandigona/fps-game)
+3D zombie survival shooter running entirely in the browser. No plugins, no downloads.
+
+**Stack:** TypeScript · Three.js · WebGL
+
+[![Play Now](https://img.shields.io/badge/Play%20Now-→-6366f1?style=flat-square)](https://tapiwamakandigona.github.io/fps-game/)
+[![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/fps-game)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎲 [ZimBet](https://github.com/tapiwamakandigona/zimbet)
+Casino platform with 6 provably fair games: Aviator, Plinko, Mines, Dice, Coinflip, Wheel. Real-time multiplayer.
+
+**Stack:** React · TypeScript · Supabase Realtime · Canvas
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-→-6366f1?style=flat-square)](https://tapiwamakandigona.github.io/zimbet/)
+[![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/zimbet)
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 [LanLink](https://github.com/tapiwamakandigona/lanlink)
+LAN file transfer & messaging between PC and phone. Drag-and-drop, clipboard sync, auto-discovery.
+
+**Stack:** React · TypeScript · Electron · Capacitor · WebSocket
+
+[![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/lanlink)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 [ZimPay](https://github.com/tapiwamakandigona/zimpay)
+Modern banking simulation — real-time transfers, Supabase auth, dark/light themes.
+
+**Stack:** React · TypeScript · Tailwind · Supabase
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-→-6366f1?style=flat-square)](https://tapiwamakandigona.github.io/zimpay/)
+[![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/zimpay)
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 [React UI Kit](https://github.com/tapiwamakandigona/react-ui-kit)
+Minimal, zero-dependency React component library — Button, Input, Modal, Toast, Card, Badge. TypeScript-first.
+
+**Stack:** TypeScript · React · Rollup
+
+[![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/react-ui-kit)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🔧 More Projects
 
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---------|-------------|-------|
-| [**URL Shortener**](https://github.com/tapiwamakandigona/url-shortener) | Full-stack with analytics, QR codes, custom aliases | Express + React + TS |
-| [**Realtime Chat**](https://github.com/tapiwamakandigona/realtime-chat) | Rooms, typing indicators, message history | React + Supabase Realtime |
-| [**Analytics Dashboard**](https://github.com/tapiwamakandigona/react-analytics-dashboard) | Charts, KPIs, data tables | React + Recharts |
-| [**Expense Tracker**](https://github.com/tapiwamakandigona/expense-tracker) | Charts, categories, budgets, CSV export | React + TypeScript |
+| [**URL Shortener**](https://github.com/tapiwamakandigona/url-shortener) | Short links with analytics, QR codes, custom aliases | Express · React · TS |
+| [**Realtime Chat**](https://github.com/tapiwamakandigona/realtime-chat) | Rooms, typing indicators, message history | React · Supabase Realtime |
+| [**Analytics Dashboard**](https://github.com/tapiwamakandigona/react-analytics-dashboard) | Charts, KPIs, filterable data tables | React · Recharts |
+| [**Expense Tracker**](https://github.com/tapiwamakandigona/expense-tracker) | Categories, budgets, CSV export | React · TypeScript |
+| [**Express API Starter**](https://github.com/tapiwamakandigona/express-api-starter) | Production-ready REST API with JWT, Prisma, tests | Express · TypeScript · Prisma |
+| [**Todo App**](https://github.com/tapiwamakandigona/todo-app) | One codebase → Android, Windows, macOS, Linux, Web | React · Capacitor · Electron |
 
-### CLI Tools
+### 🛠️ CLI / Library Tools
 `pwgen-cli` · `http-ping-cli` · `json-lint-cli` · `md-preview-server` · `env-guard` · `ts-color-utils`
 
 ---
@@ -69,17 +119,23 @@ One codebase deployed to Android, Windows, macOS, Linux, and Web.
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,supabase,threejs,nodejs,express,html,css,git,github,linux,vite&perline=7" />
+  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,supabase,threejs,nodejs,express,electron,sqlite,html,css,git,github,linux,vite,figma&perline=8" />
 </div>
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tapiwamakandigona&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapiwamakandigona&layout=compact&theme=nord&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tapiwamakandigona&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapiwamakandigona&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" height="175" alt="Top Languages" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tapiwamakandigona&theme=nord&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=tapiwamakandigona&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1,818cf8&height=100&section=footer" />
 </div>
