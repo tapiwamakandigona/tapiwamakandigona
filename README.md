@@ -5,11 +5,13 @@
 <p align="center">
   <a href="https://tapiwa.me"><img src="https://img.shields.io/badge/🌐%20tapiwa.me-Visit%20Portfolio-6366f1?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:silentics.org@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/tapiwa-makandigona-2562473a0/"><img src="https://img.shields.io/badge/LinkedIn-Tapiwa%20Makandigona-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/makandigonatapiwa/"><img src="https://img.shields.io/badge/Instagram-@makandigonatapiwa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <img src="https://komarev.com/ghpvc/?username=tapiwamakandigona&label=Profile+Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <strong>I build full-stack web apps, 3D browser games, and cross-platform tools.</strong><br/>
+  <strong>I'm Tapiwa Makandigona — I build full-stack web apps, 3D browser games, and cross-platform tools.</strong><br/>
   TypeScript · React · Supabase · Three.js · Capacitor · Electron · Node.js
 </p>
 
