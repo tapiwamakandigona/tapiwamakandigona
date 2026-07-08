@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://tapiwa.me"><img src="https://img.shields.io/badge/🌐%20tapiwa.me-Visit%20Portfolio-6366f1?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://zesa.tapiwa.me"><img src="https://img.shields.io/badge/⚡%20VoltZW-ZESA%20Token%20Calculator-6366f1?style=for-the-badge&logoColor=white" alt="VoltZW — ZESA Token Calculator" /></a>
   <a href="mailto:silentics.org@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/tapiwa-makandigona-2562473a0/"><img src="https://img.shields.io/badge/LinkedIn-Tapiwa%20Makandigona-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/makandigonatapiwa/"><img src="https://img.shields.io/badge/Instagram-@makandigonatapiwa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -31,6 +32,16 @@ Currently based in Harare, Zimbabwe. Open to remote work.
 <tr>
 <td width="50%" valign="top">
 
+### ⚡ [VoltZW — ZESA Token Calculator](https://zesa.tapiwa.me/)
+Prepaid electricity token calculator for Zimbabwe. Works out exactly how many kWh a ZETDC prepaid token buys across the stepped tariff bands — check before you top up.
+
+**Stack:** Web app · ZESA/ZETDC tariff engine
+
+[![Use it live](https://img.shields.io/badge/Use%20it%20live-zesa.tapiwa.me-6366f1?style=flat-square)](https://zesa.tapiwa.me/)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🚗 [TapRide](https://github.com/tapiwamakandigona/tapride)
 Full-stack ride-hailing platform with real-time GPS, driver matching, in-app chat, fare estimation, and star ratings.
 
@@ -40,6 +51,8 @@ Full-stack ride-hailing platform with real-time GPS, driver matching, in-app cha
 [![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/tapride)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧟 [Browser FPS](https://github.com/tapiwamakandigona/fps-game)
@@ -51,8 +64,6 @@ Full-stack ride-hailing platform with real-time GPS, driver matching, in-app cha
 [![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/fps-game)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎲 [ZimBet](https://github.com/tapiwamakandigona/zimbet)
@@ -64,6 +75,8 @@ Casino platform with 6 provably fair games: Aviator, Plinko, Mines, Dice, Coinfl
 [![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/zimbet)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📡 [LanLink](https://github.com/tapiwamakandigona/lanlink)
@@ -74,8 +87,6 @@ LAN file transfer & messaging between PC and phone. Drag-and-drop, clipboard syn
 [![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/lanlink)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏦 [ZimPay](https://github.com/tapiwamakandigona/zimpay)
@@ -87,6 +98,8 @@ Modern banking simulation — real-time transfers, Supabase auth, dark/light the
 [![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/zimpay)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📦 [React UI Kit](https://github.com/tapiwamakandigona/react-ui-kit)
