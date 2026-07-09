@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1,818cf8&height=220&section=header&text=Tapiwa%20Makandigona&fontSize=48&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Zimbabwe%20🇿🇼&descAlignY=54&descAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1,818cf8&height=220&section=header&text=Tapiwa%20Makandigona&fontSize=48&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Zimbabwe%20🇿🇼&descAlignY=54&descAlign=50&fontColor=ffffff" alt="Tapiwa Makandigona — Full Stack Developer" />
 </div>
 
 <p align="center">
@@ -126,7 +126,7 @@ Minimal, zero-dependency React component library — Button, Input, Modal, Toast
 | [**Express API Starter**](https://github.com/tapiwamakandigona/express-api-starter) | Production-ready REST API with JWT, Prisma, tests | Express · TypeScript · Prisma |
 | [**Todo App**](https://github.com/tapiwamakandigona/todo-app) | One codebase → Android, Windows, macOS, Linux, Web | React · Capacitor · Electron |
 
-### 🛠️ CLI / Library Tools
+### ⚙️ CLI / Library Tools
 `pwgen-cli` · `http-ping-cli` · `json-lint-cli` · `md-preview-server` · `env-guard` · `ts-color-utils`
 
 ---
@@ -134,7 +134,7 @@ Minimal, zero-dependency React component library — Button, Input, Modal, Toast
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,supabase,threejs,nodejs,express,electron,sqlite,html,css,git,github,linux,vite,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,supabase,threejs,nodejs,express,electron,sqlite,html,css,git,github,linux,vite,figma&perline=8" alt="Tech Stack: TypeScript, React, Tailwind, Supabase, Three.js, Node.js, Express, Electron, SQLite, HTML, CSS, Git, GitHub, Linux, Vite, Figma" />
 </div>
 
 ---
@@ -152,5 +152,5 @@ Minimal, zero-dependency React component library — Button, Input, Modal, Toast
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1,818cf8&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1,818cf8&height=100&section=footer" alt="" />
 </div>
