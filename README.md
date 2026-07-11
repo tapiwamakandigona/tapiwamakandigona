@@ -13,14 +13,14 @@
 
 <p align="center">
   <strong>I'm Tapiwa Makandigona — I build full-stack web apps, 3D browser games, and cross-platform tools.</strong><br/>
-  TypeScript · React · Supabase · Three.js · Capacitor · Electron · Node.js
+  TypeScript · React · Next.js · Supabase · Appwrite · Three.js · Capacitor · Flutter
 </p>
 
 ---
 
 ## 🏗️ What I Build
 
-Full-stack apps with **React + TypeScript + Supabase**, real-time features via **Supabase Realtime**, browser-based 3D with **Three.js**, and cross-platform deployment through **Capacitor** (Android/iOS) and **Electron** (desktop). I build things that actually work end-to-end — auth flows, live GPS tracking, multiplayer games, CLI tools, the whole stack.
+Full-stack apps with **React + TypeScript** on **Appwrite** and **Supabase**, real-time features, browser-based 3D with **Three.js**, and cross-platform deployment through **Capacitor** (Android/iOS), **Electron** (desktop), and **Flutter**. I build things that actually work end-to-end — auth flows, live GPS tracking, multiplayer games, CLI tools, the whole stack.
 
 Currently based in Harare, Zimbabwe. Open to remote work.
 
@@ -35,9 +35,10 @@ Currently based in Harare, Zimbabwe. Open to remote work.
 ### ⚡ [VoltZW — ZESA Token Calculator](https://zesa.tapiwa.me/)
 Prepaid electricity token calculator for Zimbabwe. Works out exactly how many kWh a ZETDC prepaid token buys across the stepped tariff bands — check before you top up.
 
-**Stack:** Web app · ZESA/ZETDC tariff engine
+**Stack:** Next.js · TypeScript · Appwrite · ZESA/ZETDC tariff engine
 
 [![Use it live](https://img.shields.io/badge/Use%20it%20live-zesa.tapiwa.me-6366f1?style=flat-square)](https://zesa.tapiwa.me/)
+[![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/voltzw)
 
 </td>
 <td width="50%" valign="top">
@@ -45,9 +46,9 @@ Prepaid electricity token calculator for Zimbabwe. Works out exactly how many kW
 ### 🚗 [TapRide](https://github.com/tapiwamakandigona/tapride)
 Full-stack ride-hailing platform with real-time GPS, driver matching, in-app chat, fare estimation, and star ratings.
 
-**Stack:** React · TypeScript · Supabase · Leaflet · Capacitor
+**Stack:** React · TypeScript · Appwrite · Leaflet · Capacitor
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-→-6366f1?style=flat-square)](https://tapiwamakandigona.github.io/tapride/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-→-6366f1?style=flat-square)](https://tapride.tapiwa.me/)
 [![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/tapride)
 
 </td>
@@ -55,13 +56,13 @@ Full-stack ride-hailing platform with real-time GPS, driver matching, in-app cha
 <tr>
 <td width="50%" valign="top">
 
-### 🧟 [Browser FPS](https://github.com/tapiwamakandigona/fps-game)
-3D zombie survival shooter running entirely in the browser. No plugins, no downloads.
+### 🧟 [Browser FPS](https://fps.tapiwa.me/)
+3D zombie survival shooter running entirely in the browser. No plugins, no downloads — every version playable free at the FPS Arena hub.
 
 **Stack:** TypeScript · Three.js · WebGL
 
-[![Play Now](https://img.shields.io/badge/Play%20Now-→-6366f1?style=flat-square)](https://tapiwamakandigona.github.io/fps-game/)
-[![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/fps-game)
+[![Play Now](https://img.shields.io/badge/Play%20Now-fps.tapiwa.me-6366f1?style=flat-square)](https://fps.tapiwa.me/)
+[![About](https://img.shields.io/badge/About-→-555?style=flat-square)](https://tapiwa.me/fps-game/)
 
 </td>
 <td width="50%" valign="top">
@@ -79,12 +80,13 @@ Casino platform with 6 provably fair games: Aviator, Plinko, Mines, Dice, Coinfl
 <tr>
 <td width="50%" valign="top">
 
-### 📡 [LanLink](https://github.com/tapiwamakandigona/lanlink)
-LAN file transfer & messaging between PC and phone. Drag-and-drop, clipboard sync, auto-discovery.
+### 📡 [LanLink](https://tapiwa.me/lanlink/)
+Cross-platform file transfer between phone and PC over Wi-Fi or hotspot — auto-discovery, no internet, no accounts, no size limits. Android · iOS · Windows · macOS · Linux.
 
-**Stack:** React · TypeScript · Electron · Capacitor · WebSocket
+**Stack:** Flutter · Dart · LocalSend protocol
 
-[![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/lanlink)
+[![About](https://img.shields.io/badge/About-tapiwa.me%2Flanlink-6366f1?style=flat-square)](https://tapiwa.me/lanlink/)
+[![Downloads](https://img.shields.io/badge/Downloads-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/lanlink-downloads)
 
 </td>
 <td width="50%" valign="top">
@@ -134,7 +136,7 @@ Minimal, zero-dependency React component library — Button, Input, Modal, Toast
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,supabase,threejs,nodejs,express,electron,sqlite,html,css,git,github,linux,vite,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,supabase,appwrite,threejs,nodejs,express,electron,capacitor,flutter,dart,sqlite,html,css,git,github,linux,vite&perline=10" />
 </div>
 
 ---
