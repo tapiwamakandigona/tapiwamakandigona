@@ -136,7 +136,7 @@ Minimal, zero-dependency React component library — Button, Input, Modal, Toast
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,supabase,appwrite,threejs,nodejs,express,electron,capacitor,flutter,dart,sqlite,html,css,git,github,linux,vite&perline=10" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,supabase,appwrite,threejs,nodejs,express,electron,flutter,dart,sqlite,html,css,git,github,linux,vite&perline=10" />
 </div>
 
 ---
