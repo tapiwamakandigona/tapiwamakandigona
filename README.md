@@ -4,20 +4,23 @@
 
 <p align="center">
   <a href="https://tapiwa.me"><img src="https://img.shields.io/badge/🌐%20tapiwa.me-Visit%20Portfolio-6366f1?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://zesa.tapiwa.me"><img src="https://img.shields.io/badge/⚡%20VoltZW-ZESA%20Token%20Calculator-6366f1?style=for-the-badge&logoColor=white" alt="VoltZW — ZESA Token Calculator" /></a>
   <a href="mailto:silentics.org@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/tapiwa-makandigona-2562473a0/"><img src="https://img.shields.io/badge/LinkedIn-Tapiwa%20Makandigona-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/makandigonatapiwa/"><img src="https://img.shields.io/badge/Instagram-@makandigonatapiwa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <img src="https://komarev.com/ghpvc/?username=tapiwamakandigona&label=Profile+Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <strong>I build full-stack web apps, 3D browser games, and cross-platform tools.</strong><br/>
-  TypeScript · React · Supabase · Three.js · Capacitor · Electron · Node.js
+  <strong>I'm Tapiwa Makandigona — I build full-stack web apps, 3D browser games, and cross-platform tools.</strong><br/>
+  TypeScript · React · Next.js · Supabase · Appwrite · Three.js · Capacitor · Flutter
 </p>
 
 ---
 
 ## 🏗️ What I Build
 
-Full-stack apps with **React + TypeScript + Supabase**, real-time features via **Supabase Realtime**, browser-based 3D with **Three.js**, and cross-platform deployment through **Capacitor** (Android/iOS) and **Electron** (desktop). I build things that actually work end-to-end — auth flows, live GPS tracking, multiplayer games, CLI tools, the whole stack.
+Full-stack apps with **React + TypeScript** on **Appwrite** and **Supabase**, real-time features, browser-based 3D with **Three.js**, and cross-platform deployment through **Capacitor** (Android/iOS), **Electron** (desktop), and **Flutter**. I build things that actually work end-to-end — auth flows, live GPS tracking, multiplayer games, CLI tools, the whole stack.
 
 Currently based in Harare, Zimbabwe. Open to remote work.
 
@@ -29,28 +32,39 @@ Currently based in Harare, Zimbabwe. Open to remote work.
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 [TapRide](https://github.com/tapiwamakandigona/tapride)
-Full-stack ride-hailing platform with real-time GPS, driver matching, in-app chat, fare estimation, and star ratings.
+### ⚡ [VoltZW — ZESA Token Calculator](https://zesa.tapiwa.me/)
+Prepaid electricity token calculator for Zimbabwe. Works out exactly how many kWh a ZETDC prepaid token buys across the stepped tariff bands — check before you top up.
 
-**Stack:** React · TypeScript · Supabase · Leaflet · Capacitor
+**Stack:** Next.js · TypeScript · Appwrite · ZESA/ZETDC tariff engine
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-→-6366f1?style=flat-square)](https://tapiwamakandigona.github.io/tapride/)
-[![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/tapride)
+[![Use it live](https://img.shields.io/badge/Use%20it%20live-zesa.tapiwa.me-6366f1?style=flat-square)](https://zesa.tapiwa.me/)
+[![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/voltzw)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧟 [Browser FPS](https://github.com/tapiwamakandigona/fps-game)
-3D zombie survival shooter running entirely in the browser. No plugins, no downloads.
+### 🚗 [TapRide](https://github.com/tapiwamakandigona/tapride)
+Full-stack ride-hailing platform with real-time GPS, driver matching, in-app chat, fare estimation, and star ratings.
 
-**Stack:** TypeScript · Three.js · WebGL
+**Stack:** React · TypeScript · Appwrite · Leaflet · Capacitor
 
-[![Play Now](https://img.shields.io/badge/Play%20Now-→-6366f1?style=flat-square)](https://tapiwamakandigona.github.io/fps-game/)
-[![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/fps-game)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-→-6366f1?style=flat-square)](https://tapride.tapiwa.me/)
+[![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/tapride)
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🧟 [Browser FPS](https://fps.tapiwa.me/)
+3D zombie survival shooter running entirely in the browser. No plugins, no downloads — every version playable free at the FPS Arena hub.
+
+**Stack:** TypeScript · Three.js · WebGL
+
+[![Play Now](https://img.shields.io/badge/Play%20Now-fps.tapiwa.me-6366f1?style=flat-square)](https://fps.tapiwa.me/)
+[![About](https://img.shields.io/badge/About-→-555?style=flat-square)](https://tapiwa.me/fps-game/)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🎲 [ZimBet](https://github.com/tapiwamakandigona/zimbet)
@@ -62,18 +76,19 @@ Casino platform with 6 provably fair games: Aviator, Plinko, Mines, Dice, Coinfl
 [![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/zimbet)
 
 </td>
-<td width="50%" valign="top">
-
-### 📡 [LanLink](https://github.com/tapiwamakandigona/lanlink)
-LAN file transfer & messaging between PC and phone. Drag-and-drop, clipboard sync, auto-discovery.
-
-**Stack:** React · TypeScript · Electron · Capacitor · WebSocket
-
-[![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/lanlink)
-
-</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 📡 [LanLink](https://tapiwa.me/lanlink/)
+Cross-platform file transfer between phone and PC over Wi-Fi or hotspot — auto-discovery, no internet, no accounts, no size limits. Android · iOS · Windows · macOS · Linux.
+
+**Stack:** Flutter · Dart · LocalSend protocol
+
+[![About](https://img.shields.io/badge/About-tapiwa.me%2Flanlink-6366f1?style=flat-square)](https://tapiwa.me/lanlink/)
+[![Downloads](https://img.shields.io/badge/Downloads-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/lanlink-downloads)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🏦 [ZimPay](https://github.com/tapiwamakandigona/zimpay)
@@ -85,6 +100,8 @@ Modern banking simulation — real-time transfers, Supabase auth, dark/light the
 [![GitHub](https://img.shields.io/badge/GitHub-→-555?style=flat-square&logo=github)](https://github.com/tapiwamakandigona/zimpay)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📦 [React UI Kit](https://github.com/tapiwamakandigona/react-ui-kit)
@@ -119,7 +136,7 @@ Minimal, zero-dependency React component library — Button, Input, Modal, Toast
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,supabase,threejs,nodejs,express,electron,sqlite,html,css,git,github,linux,vite,figma&perline=8" alt="Tech Stack: TypeScript, React, Tailwind, Supabase, Three.js, Node.js, Express, Electron, SQLite, HTML, CSS, Git, GitHub, Linux, Vite, Figma" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,supabase,appwrite,threejs,nodejs,express,electron,flutter,dart,sqlite,html,css,git,github,linux,vite&perline=10" alt="Tech stack: TypeScript, React, Next.js, Tailwind, Supabase, Appwrite, Three.js, Node.js, Express, Electron, Flutter, Dart, SQLite, HTML, CSS, Git, GitHub, Linux, Vite" />
 </div>
 
 ---
