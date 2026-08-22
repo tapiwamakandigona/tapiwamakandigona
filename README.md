@@ -16,19 +16,46 @@
   TypeScript · React · Next.js · Supabase · Appwrite · Three.js · Capacitor · Flutter
 </p>
 
+<p align="center">
+  🏅 <strong>IOAI 2026 Bronze</strong> — International Olympiad in AI (GAITE · Astana)&nbsp;&nbsp;·&nbsp;&nbsp;🎲 <strong><a href="https://play.google.com/store/apps/details?id=com.tsorostudios.emberdelve">Emberdelve</a></strong> — my dice roguelite, live on Google Play worldwide
+</p>
+
 ---
 
 ## 🏗️ What I Build
 
 Full-stack apps with **React + TypeScript** on **Appwrite** and **Supabase**, real-time features, browser-based 3D with **Three.js**, and cross-platform deployment through **Capacitor** (Android/iOS), **Electron** (desktop), and **Flutter**. I build things that actually work end-to-end — auth flows, live GPS tracking, multiplayer games, CLI tools, the whole stack.
 
-Currently based in Harare, Zimbabwe. Open to remote work.
+Currently based in Kwekwe, Zimbabwe. Open to remote work.
 
 ---
 
 ## ⭐ Featured Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎲 [Emberdelve — Dice Roguelite](https://play.google.com/store/apps/details?id=com.tsorostudios.emberdelve)
+Fair-dice roguelite, live on Google Play in 177 countries. Build your dice pool, push your luck, die forward. No ads, no timers, no gacha — one optional unlock.
+
+**Stack:** Flutter · Flame · Dart · Google Play Billing
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-Get%20it-6366f1?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.tsorostudios.emberdelve)
+[![About](https://img.shields.io/badge/About-tapiwa.me%2Femberdelve-555?style=flat-square)](https://tapiwa.me/emberdelve/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📒 [LedgerFarm — Multi-entity Bookkeeping](https://ledgerfarm.tapiwa.me/)
+Bookkeeping for people running several LLCs: every entity in one login, intercompany tracked automatically, consolidated reports. One flat price.
+
+**Stack:** React · TypeScript · Convex
+
+[![Visit](https://img.shields.io/badge/Visit-ledgerfarm.tapiwa.me-6366f1?style=flat-square)](https://ledgerfarm.tapiwa.me/)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
