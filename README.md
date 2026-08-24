@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  🏅 <strong>IOAI 2026 Bronze</strong> — International Olympiad in AI (GAITE · Astana)&nbsp;&nbsp;·&nbsp;&nbsp;🎲 <strong><a href="https://play.google.com/store/apps/details?id=com.tsorostudios.emberdelve">Emberdelve</a></strong> — my dice roguelite, live on Google Play worldwide
+  🏅 <strong>Bronze</strong> — Africa's first AI Olympiad (Apr 2026)&nbsp;&nbsp;·&nbsp;&nbsp;🏅 <strong>Level 3 Award</strong> — IOAI 2026 (Astana)&nbsp;&nbsp;·&nbsp;&nbsp;🎲 <strong><a href="https://play.google.com/store/apps/details?id=com.tsorostudios.emberdelve">Emberdelve</a></strong> — my dice roguelite, live on Google Play worldwide
 </p>
 
 ---
